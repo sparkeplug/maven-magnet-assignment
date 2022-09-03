@@ -1,0 +1,38 @@
+[
+  {
+    "name": "baby tolerance",
+    "id": 1
+  },
+  {
+    "name": "ingredients",
+    "id": 2
+  },
+  {
+    "name": "health benefits",
+    "id": 3
+  },
+  {
+    "name": "taste",
+    "id": 4
+  },
+  {
+    "name": "peer recommendation",
+    "id": 5
+  },
+  {
+    "name": "expert advocacy",
+    "id": 6
+  },
+  {
+    "name": "brand value",
+    "id": 7
+  },
+  {
+    "name": "convenience",
+    "id": 8
+  },
+  {
+    "name": "price",
+    "id": 9
+  }
+]

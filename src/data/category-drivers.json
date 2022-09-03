@@ -1,0 +1,18 @@
+[
+  {
+    "name": "positive",
+    "categoryDrivers": [20, 15, 12.5, 9, 2, 14, 13, 7, 4]
+  },
+  {
+    "name": "neutral",
+    "categoryDrivers": [2, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "mixed",
+    "categoryDrivers": [5, 2, 4, 1, 15, 1, 0, 3, 1]
+  },
+  {
+    "name": "negative",
+    "categoryDrivers": [12, 10, 2, 0, 13, 3, 2, 3, 9]
+  }
+]

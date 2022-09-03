@@ -1,0 +1,13 @@
+.hcWrapper {
+  width: 100%;
+  height: auto;
+}
+.title {
+  text-align: left;
+}
+.hcReact {
+  display: block;
+  position: relative;
+  width: 100%;
+  margin: 2rem;
+}

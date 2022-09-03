@@ -1,0 +1,36 @@
+{
+  "name": "maven-magent-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "bulma": "0.9.4",
+    "highcharts": "10.2.1",
+    "highcharts-react-official": "3.1.0",
+    "node-sass": "7.0.1",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-scripts": "4.0.3",
+    "sass": "1.54.8",
+    "sass-loader": "13.0.2",
+    "scss-loader": "0.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.20",
+    "@types/react-dom": "17.0.9",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
